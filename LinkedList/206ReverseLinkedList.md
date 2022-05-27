@@ -20,6 +20,8 @@ class Solution(object):
     return newhead
 
 ```
+Reverse the nodes two by two using three pointers. "next item" used to store the next node, "head" represent the current node, and "new head" represent the node before the head. 
+For each loop, the code reverses the "head" and the "new head" and then passes the pointer to the next node separately.
 
 ### Recursion
 
@@ -36,6 +38,6 @@ class Solution(object):
         
         return last
 ```
-
-
+Find the second last node need to be reversed (store in "head") and the last node (store in "head.next") 
+let the last node point to the second last node and let the second last node point to None
 
