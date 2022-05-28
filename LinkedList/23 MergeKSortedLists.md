@@ -38,6 +38,7 @@ class Solution(object):
 The idea is similar to the problem 21 "Merge two sorted lists", but use heap to store the nodes' values and nodes from lists, pop the smallest element in heap, let head point to this element, and put the node after this node into heap
 
 Note:
+
 **Python heapq**
 * heapq.heappush(heap, item)
 
@@ -47,3 +48,7 @@ Note:
 * heapq.heapify(x): 
 Transform list x into a heap, in-place, in linear time.
 * heapq.heapreplace(heap, item)
+
+**Priority Queue**
+* pQueue.put(value)
+* pQueue.get()
