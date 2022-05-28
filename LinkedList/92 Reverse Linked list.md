@@ -3,8 +3,6 @@
 ## Question description
 Given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right, and return the reversed list.
 ### Iteratively
-
-The solution for iteration is to find the node before the left node then reverse the nodes two by two until encountering the right nodes
 ```
 class Solution(object):
     def reverseBetween(self, head, left, right):
@@ -30,9 +28,10 @@ class Solution(object):
         
         return dummy.next
 ```
-
-Note: 
-"nextItem.next = guard.next" cannot be written as "nextItem.next = current"
+The solution for iteration is to find the node before the left node then reverse the nodes two by two until encountering the right nodes
+For reverse the nodes, using the head insertion method. Insert the node which after current node into the position after the guard node. 
+Thus,"nextItem.next = guard.next" cannot be written as "nextItem.next = current" since 
 
 ### Recursion
+
 
