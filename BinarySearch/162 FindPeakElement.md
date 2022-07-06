@@ -13,27 +13,25 @@ You must write an algorithm that runs in O(log n) time.
 ```
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
-        if len(nums) == 0 or nums is None:
-            return -1
+        if len(nums) == 0:
+            return None
         if len(nums) == 1 or nums[0] > nums[1]:
             return 0
         if nums[len(nums)-1] > nums[len(nums)-2]:
             return len(nums)-1
         
         left = 1
-        right = len(nums)-1
-        while left < right:
+        right = len(nums)-2
+        while left <= right:
             mid = (right - left)//2 + left
-            print("mid", mid)
-            if nums[mid]> nums[mid-1] and nums[mid + 1] < nums[mid]:
+            if nums[mid -1] < nums[mid] and nums[mid] > nums[mid + 1]:
                 return mid
-            elif nums[mid-1]< nums[mid]<nums[mid+1]:
-                left = mid +1
-                print("left",left)
+            if nums[mid -1] > nums[mid]:
+                right = mid -1
             else:
-                right = mid 
-                print("right",right)
-        return -1
+                left = mid + 1
+        
+        return None
         
         
 ```
