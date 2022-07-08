@@ -43,7 +43,7 @@ class Solution(object):
                         q.put(node)
                     elif color[node] == color[nodeN]:
                         return False
-            return False
+        return True
 ```
 
 To find out the graph is bipartite or not, we would iterate the graph using BFS: draw the connected nodes with different color from the current node. And if the connected node has the same color with the current node, return false.  
