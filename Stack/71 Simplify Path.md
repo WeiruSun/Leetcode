@@ -13,6 +13,21 @@ Any two directories are separated by a single slash '/'.
 The path does not end with a trailing '/'.
 The path only contains the directories on the path from the root directory to the target file or directory (i.e., no period '.' or double period '..')
 Return the simplified canonical path.
+
+
+
+## note
+数据结构：stack
+
+返回值： res (string)
+
+解题： 遍历path
+
+A. 如果当前值为“/”, 则忽略
+
+B. 如果当前值为“..”,则删去
+返回时对当前stack里进行join操作（加上“/）
+
  ```
  class Solution:
     def simplifyPath(self, path: str) -> str:
