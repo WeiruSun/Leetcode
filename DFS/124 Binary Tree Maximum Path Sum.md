@@ -27,8 +27,6 @@ class Solution:
         sumValue = root.val + left + right
         self.res = max(self.res,sumValue)
         return max(left + root.val, right + root.val)
-        
-
 
 ```
 

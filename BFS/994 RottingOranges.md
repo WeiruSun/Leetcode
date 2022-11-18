@@ -51,8 +51,6 @@ class Solution:
             return counter
         else:
             return -1
-                    
-            
     
     def findNeighbor(self,grid,rotOrange):
         neighborList = []

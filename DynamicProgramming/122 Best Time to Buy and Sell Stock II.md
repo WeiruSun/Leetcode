@@ -23,3 +23,13 @@ Find and return the maximum profit you can achieve.
  
 ```
 
+example:
+
+prices = [7,1,5,3,6,4]
+not hold  hold
+dp temp [][]        [][]    
+0   0     0          -7      
+1   0  max(0,-7+1)= 0  max(-7,0-1) =-1
+2   0  max(0, -1+5)=4  max(-1,0-5) = -1
+3   4  
+
