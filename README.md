@@ -3,7 +3,7 @@ Leetcode note
 ## Practice List
 [referencing order](https://cspiration.com/leetcodeClassification)
 
-| String                 |                                                              |
+| Arrays&Hashing                 |                                                              |
 | ---------------------- | ------------------------------------------------------------ |
 | 1                      | [Two Sum](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/1.%20Two%20Sum.md) |
 | 128                    | [Longest Consecutive Sequence](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/128.%20Longest%20Consecutive%20Sequence.md) |
