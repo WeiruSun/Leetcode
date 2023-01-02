@@ -40,7 +40,7 @@ class Solution:
         #     res += stack[i]
         
         # return res
-        return sum(score_stack)
+        return sum(stack)
 
 
 ```
