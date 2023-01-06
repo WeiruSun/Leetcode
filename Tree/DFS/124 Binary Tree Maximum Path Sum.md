@@ -6,7 +6,8 @@ The path sum of a path is the sum of the node's values in the path.
 
 Given the root of a binary tree, return the maximum path sum of any non-empty path.
 
-```
+```Python
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -25,6 +26,7 @@ class Solution:
         left = max(self.helper(root.left),0)
         right = max(self.helper(root.right),0)
         sumValue = root.val + left + right
+        # if could split, update the maximum value
         self.res = max(self.res,sumValue)
         return max(left + root.val, right + root.val)
 
