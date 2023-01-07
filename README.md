@@ -76,15 +76,21 @@
 ##DFS
 |      |                                                              |
 |------| ------------------------------------------------------------ |
-|226|	Invert Binary Tree
-|543|	Diameter of Binary Tree
-|110|	Balanced Binary Tree
-|100|	Same Tree
-|572|	Subtree of Another Tree
-|144|	Binary Tree Preorder Traversal
-|94|	Binary Tree Inorder Traversal
-|145|	Binary Tree Postorder Traversal
-|1448|	Count Good Nodes in Binary Tree
-|98|	Validate Binary Search Tree
-|105|	Construct Binary Tree from Preorder and Inorder Traversal
-|124|	Binary Tree Maximum Path Sum
+| 226  |	Invert Binary Tree
+| 543  |	Diameter of Binary Tree
+| 110  |	Balanced Binary Tree
+| 100  |	Same Tree
+| 572  |	Subtree of Another Tree
+| 144  |	Binary Tree Preorder Traversal
+| 94   |	Binary Tree Inorder Traversal
+| 145  |	Binary Tree Postorder Traversal
+| 1448 |	Count Good Nodes in Binary Tree
+| 98   |	Validate Binary Search Tree
+| 105  |	Construct Binary Tree from Preorder and Inorder Traversal
+| 124  |	Binary Tree Maximum Path Sum
+| 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+
+##BFS
+|      |                                                              |
+|------| ------------------------------------------------------------ |
+
