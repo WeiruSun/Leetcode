@@ -93,6 +93,6 @@
 ##BFS
 |     |                                                                                                         |                                                           |
 |-----|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](Tree/BFS/104 MaximumDepthOfBinaryTree.md)      
-| 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[solution]()
-| 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)|[solution]()
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/104%20MaximumDepthOfBinaryTree.md)      
+| 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/102%20BinaryTreeLevelOrderTraversal.md)
+| 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/199.%20Binary%20Tree%20Right%20Side%20View.md)
