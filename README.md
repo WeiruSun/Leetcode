@@ -74,10 +74,10 @@
 
 # Binary Search Tree
 ##DFS
-|      |                                                              |
-|------| ------------------------------------------------------------ |
-| 226  |	Invert Binary Tree
-| 543  |	Diameter of Binary Tree
+|      |                                                              |       |
+|------| ------------------------------------------------------------ |-------|
+| 226  |	Invert Binary Tree|
+| 543  |	Diameter of Binary Tree|
 | 110  |	Balanced Binary Tree
 | 100  |	Same Tree
 | 572  |	Subtree of Another Tree
@@ -89,6 +89,7 @@
 | 105  |	Construct Binary Tree from Preorder and Inorder Traversal
 | 124  |	Binary Tree Maximum Path Sum
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+| 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[solution](https://github.com/WeiruSun/Leetcode/blob/c5944430ba237755b0824ea0b9f3c7d40b5ae892/Tree/DFS/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
 
 ##BFS
 |     |                                                                                                         |                                                           |
