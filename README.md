@@ -97,3 +97,10 @@
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/104%20MaximumDepthOfBinaryTree.md)      
 | 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/102%20BinaryTreeLevelOrderTraversal.md)
 | 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/199.%20Binary%20Tree%20Right%20Side%20View.md)
+
+## Heap/PriorityQueue
+|      |                                                                                                   |               |
+|------|---------------------------------------------------------------------------------------------------|---------------|
+| 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/1046.%20Last%20Stone%20Weight.md)  |
+| 973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/973.%20K%20Closest%20Points%20to%20Origin.md)
