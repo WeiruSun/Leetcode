@@ -19,6 +19,7 @@
 |-----| ------------------------------------------------------------ |---|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan&id=data-structure-i)|[solution](https://github.com/WeiruSun/Leetcode/blob/475a6039046db26425c02a9d41c0baedaabf155b/Two%20Pointers/88.%20Merge%20Sorted%20Array.md)
 | 15  |[3Sum](https://leetcode.com/problems/3sum/)|
 | 11  |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|
 | 42  |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|
