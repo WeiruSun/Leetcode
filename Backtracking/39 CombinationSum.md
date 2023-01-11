@@ -31,8 +31,6 @@ class Solution:
         self.helper(candidates,target,0,currentList)
         return self.res
     
-        
-    
     def helper(self,candidates, target, start,currentList):
         if target == 0:
             self.res.append(currentList.copy())
