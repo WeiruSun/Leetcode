@@ -24,8 +24,6 @@ Given n pairs of parentheses, write a function to generate all combinations of w
         if closeCount < openCount:
             currentList.append(")")
             self.helper(n,currentList,openCount,closeCount+1)
-            currentList.pop()
-        
-    
+            currentList.pop() 
 ```
 

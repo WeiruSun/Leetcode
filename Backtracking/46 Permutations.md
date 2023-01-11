@@ -10,20 +10,19 @@ class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         self.res = []
         currentList = []
-        self.helper(nums,currentList)
+        self.backtracking(nums,currentList)
         return self.res
-    
-    def helper(self,nums,currentList):
+
+    def backtracking(self,nums,currentList):
         if len(currentList) == len(nums):
             self.res.append(currentList.copy())
             return
-        for i in range(0,len(nums)):
+        for i in range(len(nums)):
             if nums[i] not in currentList:
                 currentList.append(nums[i])
-                self.helper(nums,currentList)
-                currentList.pop(len(currentList)-1)
+                self.backtracking(nums,currentList)
+                currentList.pop()
 ```
-
 the result list is permutations, not combinations, so we do not need a label for the start point in the dfs
 To avoid the repetition of the elements, we need to check if the current element is already in the currentList
 
