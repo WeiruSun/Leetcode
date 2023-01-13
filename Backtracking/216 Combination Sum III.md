@@ -26,6 +26,5 @@ class Solution:
             currentList.append(i)
             self.helper(k,target - i,i+1,currentList)
             currentList.pop()
-    
 ```
 

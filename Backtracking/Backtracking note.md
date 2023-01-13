@@ -228,3 +228,34 @@ class Solution:
                 i +=1
             i+=1
 ```
+### palindrome partition
+用决策树对分割进行增量选择，在每一层对余下的字符串进行分割。当察觉到新的分割不是回文时可以立即舍弃。
+![img_3.png](img_3.png)
+
+```python
+class Solution:
+    res = []
+    def partition(self, s: str) -> List[List[str]]:
+        self.res = []
+        currentList = []
+        self.backtracking(s,currentList,0)
+        return self.res
+    
+    def backtracking(self,s,currentList,start):
+        if start >= len(s):
+            self.res.append(currentList.copy())
+            return
+        for i in range(start,len(s)):
+            if self.isPali(s,start,i):
+                currentList.append(s[start:i+1])
+                self.backtracking(s,currentList,i+1)
+                currentList.pop()
+                
+    def isPali(self,s,l,r):
+        while l < r:
+            if s[l] != s[r]:
+                return False
+            l,r = l+1,r -1
+        return True
+
+```
