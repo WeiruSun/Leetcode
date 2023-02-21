@@ -3,16 +3,16 @@
 
 # Linear structure
 ## Arrays&Hashing
-|              |                                                              |
-| ---------------------- | ------------------------------------------------------------ |
-| 1                      | [Two Sum](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/1.%20Two%20Sum.md)|
-| 128                    | [Longest Consecutive Sequence](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/128.%20Longest%20Consecutive%20Sequence.md)|
-| 217                    | [Contains Duplicate](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/217.%20Contains%20Duplicate.md)|
-| 238                    | [Product of Array Except Self](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/238.%20Product%20of%20Array%20Except%20Self.md)|
-| 242                   | [Valid Anagram](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/242.%20Valid%20Anagram.md)|
-| 347                   | [Top K Frequent Elements](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/347.%20Top%20K%20Frequent%20Elements.md)|
-| 36                    | [Valid Sudoku](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/36.%20Valid%20Sudoku.md)|
-| 49                    | [Group Anagrams](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/49.%20Group%20Anagrams.md)|
+|     |                                                                                                                                                |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Two Sum](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/1.%20Two%20Sum.md)                                                   |
+| 128 | [Longest Consecutive Sequence](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/128.%20Longest%20Consecutive%20Sequence.md)     |
+| 217 | [Contains Duplicate](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/217.%20Contains%20Duplicate.md)                           |
+| 238 | [Product of Array Except Self](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/238.%20Product%20of%20Array%20Except%20Self.md) |
+| 242 | [Valid Anagram](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/242.%20Valid%20Anagram.md)                                     |
+| 347 | [Top K Frequent Elements](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/347.%20Top%20K%20Frequent%20Elements.md)             |
+| 36  | [Valid Sudoku](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/36.%20Valid%20Sudoku.md)                                        |
+| 49  | [Group Anagrams](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/49.%20Group%20Anagrams.md)                                    |
 
 ## TwoPointers
 |     |                                                              | |
@@ -74,30 +74,30 @@
 |25|	Reverse Nodes in k-Group
 
 # Binary Search Tree
-##DFS
-|      |                                                              |       |
-|------| ------------------------------------------------------------ |-------|
-| 226  |	Invert Binary Tree|
-| 543  |	Diameter of Binary Tree|
-| 110  |	Balanced Binary Tree
-| 100  |	Same Tree
-| 572  |	Subtree of Another Tree
-| 144  |	Binary Tree Preorder Traversal
-| 94   |	Binary Tree Inorder Traversal
+## DFS
+|      |                |                                                                                                                                                           |
+|------| -----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 226  |	Invert Binary Tree|                                                                                                                                                           |                                                                                                                            
+| 543  |	Diameter of Binary Tree|                                                                                                                                                           |
+| 110  |	Balanced Binary Tree|                                                                                                                                                           |
+| 100  |	Same Tree|                                                                                                                                                           |
+| 572  |	Subtree of Another Tree|
+| 144  |	Binary Tree Preorder Traversal|
+| 94   |	Binary Tree Inorder Traversal|
 | 145  |	Binary Tree Postorder Traversal
 | 1448 |	Count Good Nodes in Binary Tree
 | 98   |	Validate Binary Search Tree
 | 105  |	Construct Binary Tree from Preorder and Inorder Traversal
 | 124  |	Binary Tree Maximum Path Sum
 | 235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
-| 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[solution](https://github.com/WeiruSun/Leetcode/blob/c5944430ba237755b0824ea0b9f3c7d40b5ae892/Tree/DFS/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
+| 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [solution](https://github.com/WeiruSun/Leetcode/blob/c5944430ba237755b0824ea0b9f3c7d40b5ae892/Tree/DFS/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) |
 
-##BFS
+## BFS
 |     |                                                                                                         |                                                           |
 |-----|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/104%20MaximumDepthOfBinaryTree.md)      
-| 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/102%20BinaryTreeLevelOrderTraversal.md)
-| 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/199.%20Binary%20Tree%20Right%20Side%20View.md)
+| 104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/104%20MaximumDepthOfBinaryTree.md) |     
+| 102 |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/102%20BinaryTreeLevelOrderTraversal.md)|
+| 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/199.%20Binary%20Tree%20Right%20Side%20View.md)|
 
 ## Heap/PriorityQueue
 |      |                                                                                                   |               |
@@ -105,3 +105,19 @@
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)| [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/1046.%20Last%20Stone%20Weight.md)  |
 | 973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)|[solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/973.%20K%20Closest%20Points%20to%20Origin.md)
+
+## Backtracking
+|                                                                                                                   |                                                                                                                                                                      |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [78.Subsets](https://leetcode.com/problems/subsets/)                                                              | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/78.%20Subsets.md)                                         |
+| [90. Subsets II](https://leetcode.com/problems/subsets-ii/)                                                       | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/90.%20Subsets%20II.md)                                    |
+| [77. Combinations](https://leetcode.com/problems/combinations/)                                                   | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/77%20combinations.md)                                     |
+| [39. Combination Sum](https://leetcode.com/problems/combination-sum/)                                             | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/39%20CombinationSum.md)                                   |
+| [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                       | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/40%20CombinationSumII.md)                                 |
+| [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)                                    | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/216%20Combination%20Sum%20III.md)                         |
+| [46. Permutations](https://leetcode.com/problems/permutations/)                                                   | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/46%20Permutations.md)                                     |
+| [47. Permutations II](https://leetcode.com/problems/permutations-ii/)                                             | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/47%20PermutationsII.md)                                   |
+| [79. Word Search](https://leetcode.com/problems/word-search/)                                                     | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/79.%20Word%20Search.md)                                   |
+| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                            | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/131.%20Palindrome%20Partitioning.md)                      |
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) |
+
