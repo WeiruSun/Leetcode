@@ -4,21 +4,24 @@ You are a professional robber planning to rob houses along a street. Each house 
 
 Given an integer array nums representing the amount of money of each house, return the maximum amount of money you can rob tonight without alerting the police.
 
+## solution
+rob = max(arr[0]+rob[2:n],arr[1:n])
 
-
+time complexity : O(n)
 ```python
 class Solution:
     def rob(self, nums: List[int]) -> int:
         rob1,rob2 = 0 ,0
 
         #[rob1,rob2,n,n+1]
+        # store the max value we can rob up until this point
         for n in nums:
             temp = max(n+rob1,rob2)
             rob1 = rob2
             rob2 = temp
         return rob2
 ```
-```
+```Python
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
@@ -36,7 +39,7 @@ class Solution:
         
 ```
 
-```
+```Python
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)

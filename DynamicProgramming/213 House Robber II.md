@@ -50,9 +50,5 @@ class Solution:
             prevPrev = prev
             prev = current
         return current
-            
-        
- 
- 
 ```
 
