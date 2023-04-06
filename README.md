@@ -13,6 +13,9 @@
 | 347 | [Top K Frequent Elements](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/347.%20Top%20K%20Frequent%20Elements.md)             |
 | 36  | [Valid Sudoku](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/36.%20Valid%20Sudoku.md)                                        |
 | 49  | [Group Anagrams](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/49.%20Group%20Anagrams.md)                                    |
+| 14  | [Longest Common Prefix]()                             |
+| 26  | [Remove Duplicates from Sorted Array]()                                    |
+|205  | [Isomorphic Strings]      |
 
 ## TwoPointers
 |     |                                                                                                                            |                                                                                                                                                                        |
