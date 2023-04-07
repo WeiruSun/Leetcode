@@ -13,6 +13,63 @@
 | 347 | [Top K Frequent Elements](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/347.%20Top%20K%20Frequent%20Elements.md)             |
 | 36  | [Valid Sudoku](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/36.%20Valid%20Sudoku.md)                                        |
 | 49  | [Group Anagrams](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/49.%20Group%20Anagrams.md)                                    |
+| 14  | [Longest Common Prefix]()                             |
+| 26  | [Remove Duplicates from Sorted Array]()                                    |
+|205  | [Isomorphic Strings]()      |
+|383 | [Ransom Note]()|
+|387 | [First Unique Character in a String]()|
+|566 |[Reshape the Matrix]()|
+
+## Heap & PriorityQueue
+|     |                                                                                                                                                |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------|
+| |[heap note]()|
+|1046| [Last Stone Weight]()|
+|621| [Task Scheduler]()|
+|703|[Kth Largest Element in a Stream]()|
+|973|[K Closest Points to Origin]()|
+
+## Stack
+|     |                                   |
+|-----|-----------------------------------|
+| 20  | 	Valid Parentheses                |
+| 155 | 	Min Stack                        |
+| 150 | 	Evaluate Reverse Polish Notation |
+| 22  | 	Generate Parentheses             |
+| 739 | 	Daily Temperatures               |
+| 853 | 	Car Fleet                        |
+| 682 | 	Baseball Game                    |
+| 84  | 	Largest Rectangle in Histogram   |
+
+# Linked List
+|     |                                   |
+|-----|-----------------------------------|
+| 206 | 	Reverse Linked List              |
+| 21  | 	Merge Two Sorted Lists           |
+| 143 | 	Reorder List                     |
+| 19  | 	Remove Nth Node From End of List |
+| 2   | 	Add Two Numbers                  |
+| 141 | 	Linked List Cycle                |
+| 287 | 	Find the Duplicate Number        |
+| 23  | 	Merge k Sorted Lists             |
+| 138 | 	Copy List with Random Pointer    |
+| 25  | 	Reverse Nodes in k-Group         |
+
+# Heap/PriorityQueue
+|      |                                                                                                     |                                                                                                                                                                                     |
+|------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)   | [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                               | [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/1046.%20Last%20Stone%20Weight.md)                    |
+| 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/973.%20K%20Closest%20Points%20to%20Origin.md)        |
+
+# Intervals
+|                                                                                            |                                                                                                                                               |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| [57. Insert Interval](https://leetcode.com/problems/insert-interval/)                      | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/57.%20Insert%20Interval.md)            |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                      | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/56.%20Merge%20Intervals.md)            |
+| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/435.%20Non-overlapping%20Intervals.md) |
+| [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                         | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/252.%20Meeting%20Rooms.md)             |
+| [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                   | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/253.%20Meeting%20Rooms%20II.md)        |
 
 ## TwoPointers
 |     |                                                                                                                            |                                                                                                                                                                        |
@@ -36,18 +93,6 @@
 | 724  |  Find Pivot Index                                                                                                               |
 
 
-## Stack
-|     |                                   |
-|-----|-----------------------------------|
-| 20  | 	Valid Parentheses                |
-| 155 | 	Min Stack                        |
-| 150 | 	Evaluate Reverse Polish Notation |
-| 22  | 	Generate Parentheses             |
-| 739 | 	Daily Temperatures               |
-| 853 | 	Car Fleet                        |
-| 682 | 	Baseball Game                    |
-| 84  | 	Largest Rectangle in Histogram   |
-
 # Binary Search
 |     |                                       |
 |-----|---------------------------------------|
@@ -59,19 +104,6 @@
 | 981 | 	Time Based Key-Value Store           |
 | 4   | 	Median of Two Sorted Arrays          |
 
-# Linked List
-|     |                                   |
-|-----|-----------------------------------|
-| 206 | 	Reverse Linked List              |
-| 21  | 	Merge Two Sorted Lists           |
-| 143 | 	Reorder List                     |
-| 19  | 	Remove Nth Node From End of List |
-| 2   | 	Add Two Numbers                  |
-| 141 | 	Linked List Cycle                |
-| 287 | 	Find the Duplicate Number        |
-| 23  | 	Merge k Sorted Lists             |
-| 138 | 	Copy List with Random Pointer    |
-| 25  | 	Reverse Nodes in k-Group         |
 
 # Binary Search Tree
 ## DFS
@@ -99,12 +131,7 @@
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/102%20BinaryTreeLevelOrderTraversal.md)        |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)             | [solution](https://github.com/WeiruSun/Leetcode/blob/0a70eda8fe0bde76ede44d024552174bc967bc46/Tree/BFS/199.%20Binary%20Tree%20Right%20Side%20View.md) |
 
-# Heap/PriorityQueue
-|      |                                                                                                     |                                                                                                                                                                                     |
-|------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)   | [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/703.%20Kth%20Largest%20Element%20in%20a%20Stream.md) |
-| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                               | [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/1046.%20Last%20Stone%20Weight.md)                    |
-| 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | [solution](https://github.com/WeiruSun/Leetcode/blob/15a67d17a8864959c7a67ef540de54d57d42356b/Linear/heapq%20&%20priorityQueue/973.%20K%20Closest%20Points%20to%20Origin.md)        |
+
 
 #  Backtracking
 |                                                                                                                   |                                                                                                                                                                      |
@@ -121,14 +148,6 @@
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                            | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/131.%20Palindrome%20Partitioning.md)                      |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [solution](https://github.com/WeiruSun/Leetcode/blob/688643feb4c538e99ddfce609250ef04e69498b2/Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) |
 
-# Intervals
-|                                                                                            |                                                                                                                                               |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| [57. Insert Interval](https://leetcode.com/problems/insert-interval/)                      | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/57.%20Insert%20Interval.md)            |
-| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)                      | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/56.%20Merge%20Intervals.md)            |
-| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/435.%20Non-overlapping%20Intervals.md) |
-| [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)                         | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/252.%20Meeting%20Rooms.md)             |
-| [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                   | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/253.%20Meeting%20Rooms%20II.md)        |
 
 # DP
 |                                                                                                                                   |                                                                                                                                                            |
