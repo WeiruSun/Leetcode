@@ -42,18 +42,34 @@
 | 84  | 	Largest Rectangle in Histogram   |
 
 # Linked List
-|     |                                   |
-|-----|-----------------------------------|
-| 206 | 	Reverse Linked List              |
-| 21  | 	Merge Two Sorted Lists           |
-| 143 | 	Reorder List                     |
-| 19  | 	Remove Nth Node From End of List |
-| 2   | 	Add Two Numbers                  |
-| 141 | 	Linked List Cycle                |
-| 287 | 	Find the Duplicate Number        |
-| 23  | 	Merge k Sorted Lists             |
-| 138 | 	Copy List with Random Pointer    |
-| 25  | 	Reverse Nodes in k-Group         |
+|     |                                                                                                                                |                                                                                                                                                                                         |
+|-----|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                      | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/206%20ReverseLinkedList.md)                                                    |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/21%20MergeTwoSortedLists.md)                                                   |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/)                                                        | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/143.%20Reorder%20List.md)                                                      |
+| 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                            | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/19%20RemoveNthNodeFromEndOfList.md)                                            |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                              | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/2%20Add%20Two%20Numbers.md)                                                    |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                          | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/141%20LinkedListCycle.md)                                                      |
+| 142 | [142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/142%20Linked%20List%20Cycle%20II.md)                                           |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                          | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/Two%20Pointers/Floyd's%20Tortoise%20and%20Hare/287%20Find%20the%20Duplicate%20Number.md)  |
+| 23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                    | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/23%20MergeKSortedLists.md)                                                     |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                  | [no solution yet]()                                                                                                                                                                     |
+| 25  | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)                                            | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/25%20ReverseNodesInKGroup.md)                                                  |
+| 24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                      | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/24%20Swap%20Nodes%20in%20Pairs.md)                                             |
+| 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                        | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/83%20Remove%20Duplicates%20from%20Sorted%20List.md)                            |
+| 92  | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                                                | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/92%20Reverse%20Linked%20list.md)                                               |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)      | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)             |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                          ||
+| 148 | [SortList](https://leetcode.com/problems/sort-list/)                                                                           | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/148.%20Sort%20List.md)                                                         |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                            | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/160%20IntersectionOfTwoLinkedLists.md)                                         |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                      | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/203.%20Remove%20Linked%20List%20Elements.md)                                   |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/234%20PalindromeLinkedList.md)                                                 |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                                    | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/237%20Delete%20Node%20in%20a%20Linked%20List.md)                               |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                                    | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/328.%20Odd%20Even%20Linked%20List.md)                                          |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                          | [solution](https://github.com/WeiruSun/Leetcode/blob/0a44c538bd93f52610c7c1581f682f78bdf59851/LinkedList/876%20MiddleOfTheLinkedList.md)                                                |
+
+
+
 
 # Heap/PriorityQueue
 |      |                                                                                                     |                                                                                                                                                                                     |
