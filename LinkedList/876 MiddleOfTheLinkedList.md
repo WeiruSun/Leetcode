@@ -22,3 +22,18 @@ class Solution(object):
         return slow
 ```
 Use hare & tortoise algorithm.When the fast pointer hit the last node, the slow point is at the middle node.
+
+```Java
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+}
+```
