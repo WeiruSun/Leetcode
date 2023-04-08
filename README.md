@@ -94,15 +94,15 @@
 
 
 # Binary Search
-|     |                                       |
-|-----|---------------------------------------|
-| 704 | 	Binary Search                        |
-| 74  | 	Search a 2D Matrix                   |
-| 875 | 	Koko Eating Bananas                  |
-| 153 | 	Find Minimum in Rotated Sorted Array |
-| 33  | 	Search in Rotated Sorted Array       |
-| 981 | 	Time Based Key-Value Store           |
-| 4   | 	Median of Two Sorted Arrays          |
+|     |                                                                           |                                                                                                                                               |
+|-----|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [solution](https://github.com/WeiruSun/Leetcode/blob/c79cf0980a2a56494d994ed8daef328d6fb2b53d/BinarySearch/704%20BinarySearch.md)             |
+| 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)   | [solution](https://github.com/WeiruSun/Leetcode/blob/c79cf0980a2a56494d994ed8daef328d6fb2b53d/BinarySearch/74.%20Search%20a%202D%20Matrix.md) |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [solution]()                                                                                                                                  |
+| 153 | 	Find Minimum in Rotated Sorted Array                                     |
+| 33  | 	Search in Rotated Sorted Array                                           |
+| 981 | 	Time Based Key-Value Store                                               |
+| 4   | 	Median of Two Sorted Arrays                                              |
 
 
 # Binary Search Tree

@@ -36,3 +36,36 @@ class Solution(object):
         return dummy.next
 ```
 create three pointer for list1, list2 and the result list, compare the node's value and let the result list's pointer point to the smaller node
+
+```Java
+class Solution {
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode dummy = new ListNode(0);
+        ListNode newHead = dummy;
+
+        ListNode p1 = list1;
+        ListNode p2 = list2;
+
+        while(p1 != null && p2 != null){
+            if(p1.val > p2.val){
+                newHead.next = p2;
+                p2 = p2.next;
+            }
+            else{
+                newHead.next = p1;
+                p1 = p1.next;
+            }
+            newHead = newHead.next;
+        }
+
+        if(p1 == null){
+            newHead.next = p2;
+        }
+        if(p2 == null){
+            newHead.next = p1;
+        }
+
+        return dummy.next;
+    }
+}
+```
