@@ -41,3 +41,20 @@ class Solution(object):
 Find the second last node need to be reversed (store in "head") and the last node (store in "head.next") 
 let the last node point to the second last node and let the second last node point to None
 
+```Java
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while(curr != null){
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        }
+
+        return prev;
+    }
+}
+```
