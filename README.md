@@ -3,31 +3,31 @@
 
 # Linear structure
 ## Arrays&Hashing
-|     |                                                                                                                                                |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Two Sum](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/1.%20Two%20Sum.md)                                                   |
-| 128 | [Longest Consecutive Sequence](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/128.%20Longest%20Consecutive%20Sequence.md)     |
-| 217 | [Contains Duplicate](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/217.%20Contains%20Duplicate.md)                           |
-| 238 | [Product of Array Except Self](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/238.%20Product%20of%20Array%20Except%20Self.md) |
-| 242 | [Valid Anagram](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/242.%20Valid%20Anagram.md)                                     |
-| 347 | [Top K Frequent Elements](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/347.%20Top%20K%20Frequent%20Elements.md)             |
-| 36  | [Valid Sudoku](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/36.%20Valid%20Sudoku.md)                                        |
-| 49  | [Group Anagrams](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/49.%20Group%20Anagrams.md)                                    |
-| 14  | [Longest Common Prefix]()                             |
-| 26  | [Remove Duplicates from Sorted Array]()                                    |
-|205  | [Isomorphic Strings]()      |
-|383 | [Ransom Note]()|
-|387 | [First Unique Character in a String]()|
-|566 |[Reshape the Matrix]()|
+|       |                                                                                                                                                |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | [Two Sum](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/1.%20Two%20Sum.md)                                                   |
+| 128   | [Longest Consecutive Sequence](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/128.%20Longest%20Consecutive%20Sequence.md)     |
+| 217   | [Contains Duplicate](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/217.%20Contains%20Duplicate.md)                           |
+| 238   | [Product of Array Except Self](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/238.%20Product%20of%20Array%20Except%20Self.md) |
+| 242   | [Valid Anagram](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/242.%20Valid%20Anagram.md)                                     |
+| 347   | [Top K Frequent Elements](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/347.%20Top%20K%20Frequent%20Elements.md)             |
+| 36    | [Valid Sudoku](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/36.%20Valid%20Sudoku.md)                                        |
+| 49    | [Group Anagrams](https://github.com/WeiruSun/Leetcode/blob/main/Arrays%26Hashing/49.%20Group%20Anagrams.md)                                    |
+| 14    | [Longest Common Prefix]()                                                                                                                      |
+| 26    | [Remove Duplicates from Sorted Array]()                                                                                                        |
+| 205   | [Isomorphic Strings]()                                                                                                                         |
+| 383   | [Ransom Note]()                                                                                                                                |
+| 387   | [First Unique Character in a String]()                                                                                                         |
+| 566   | [Reshape the Matrix]()                                                                                                                         |
 
 ## Heap & PriorityQueue
-|     |                                                                                                                                                |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------|
-| |[heap note]()|
-|1046| [Last Stone Weight]()|
-|621| [Task Scheduler]()|
-|703|[Kth Largest Element in a Stream]()|
-|973|[K Closest Points to Origin]()|
+|      |                                     |
+|------|-------------------------------------|
+|      | [heap note]()                       |
+| 1046 | [Last Stone Weight]()               |
+| 621  | [Task Scheduler]()                  |
+| 703  | [Kth Largest Element in a Stream]() |
+| 973  | [K Closest Points to Origin]()      |
 
 ## Stack
 |     |                                   |
@@ -88,18 +88,20 @@
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                   | [solution](https://github.com/WeiruSun/Leetcode/blob/5b40d596c31acce7d6ba763fe2ba0cbdfa534ef4/interval/253.%20Meeting%20Rooms%20II.md)        |
 
 ## TwoPointers
-|     |                                                                                                                            |                                                                                                                                                                         |
-|-----|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                        |                                                                                                                                                                         |
-| 680 | [Valid Palindrome II](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                  | [solution](https://github.com/WeiruSun/Leetcode/blob/26b26009ccfbad1b84eeb295f4790d44f8074263/Two%20Pointers/680.%20Valid%20Palindrome%20II%20.md)                      |
-| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                  | [solution](https://github.com/WeiruSun/Leetcode/blob/26b26009ccfbad1b84eeb295f4790d44f8074263/Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)      |
-| 80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)            | [solution](https://github.com/WeiruSun/Leetcode/blob/942f16ef55dece690c7e186c884743f0bca891a1/Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md) |
-| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                      |                                                                                                                                                                         | 
-| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan&id=data-structure-i) | [solution](https://github.com/WeiruSun/Leetcode/blob/475a6039046db26425c02a9d41c0baedaabf155b/Two%20Pointers/88.%20Merge%20Sorted%20Array.md)                           |                    
-| 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                |                                                                                                                                                                         |
-| 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                      |                                                                                                                                                                         |
-| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                  |                                                                                                                                                                         |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/)                                                    | [solution](https://github.com/WeiruSun/Leetcode/blob/4e79e7a3d31c07e4e3c05eee2255af50d7963ef6/Two%20Pointers/Floyd's%20Tortoise%20and%20Hare/202.%20Happy%20Number.md)  |
+|     | left and right                                                                                                             |
+|-----|----------------------------------------------------------------------------------------------------------------------------|
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                        | 
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                  |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                      |                                                                                                                                 
+| 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                                                | 
+| 16  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                |
+| 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                      |
+|     | fast and slow                                                                                                              |
+| 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                  |
+| 80  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)            | 
+| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan&id=data-structure-i) |
+| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                                  |                                                                                                                                   
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/)                                                    | 
 
 # Slicing Window
 |      |                                                                                                                                 |
